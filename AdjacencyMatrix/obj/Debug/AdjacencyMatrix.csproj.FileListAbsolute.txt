@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\bin\Debug\AdjacencyMatrix.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\AdjacencyMatrix\AdjacencyMatrix\obj\Debug\AdjacencyMatrix.pdb
